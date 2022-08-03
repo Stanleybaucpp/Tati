@@ -1,0 +1,40 @@
+.button-rigth {
+    width: 5vh;
+    height: 10vh;
+    bottom: 5%;
+    right: 50%;
+    padding: 10px;
+    position: fixed;
+    transform: translateX(50%);
+
+    border-radius: 20px;
+    background-color: #9661ce46;
+    border: .1px solid #FAFDFF;
+    box-shadow: 8px 8px 10px rgba(0,0,0,.2);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-rigth img {
+    width: 100%;
+}
+
+.happy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120%;
+    
+    font-weight: 700;
+    font-size: 3rem;
+    color: #DFE0E0;
+}
+
+.name-happy {
+    font-weight: 600;
+    font-size: 2.2rem;
+    margin-top: 0;
+    color: #282D31;
+}
